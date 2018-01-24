@@ -184,6 +184,10 @@ a.social:hover {
   clear: both;
 }
 
+.quote {
+  max-width: 300px;
+  }
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
